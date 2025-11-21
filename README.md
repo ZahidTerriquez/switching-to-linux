@@ -95,7 +95,4 @@ Includes downloads, tools, and post-install setup.
     ```
 ---
 
-Your Ubuntu installation is complete, updated, secured, and riced with GNOME Tweaks.  
-Feel free to experiment with themes, tools, and extensions — Linux is all about customization.
-
-If you found this helpful, drop a ⭐ on the repo.
+Your Ubuntu install is complete, updated, secure, and ready to go — now challenge yourself and start ricing your system with themes, extensions, icons, and layouts to make it truly yours. If this guide helped, drop a ⭐ on the repo!
